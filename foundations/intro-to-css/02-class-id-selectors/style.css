@@ -1,0 +1,20 @@
+.bg-pink {
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+    background-color: rgb(208, 109, 221);
+}
+
+/* or directly use .text class no need for chained method */
+.bg-pink.text{
+    font-size: 50px;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4{
+    background-color: rgb(91, 219, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
